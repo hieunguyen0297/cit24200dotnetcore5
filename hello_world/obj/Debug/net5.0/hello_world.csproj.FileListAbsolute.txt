@@ -1,0 +1,16 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\ref\hello_world.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\bin\Debug\net5.0\hello_world.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\ref\hello_world.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\hello_world\obj\Debug\net5.0\hello_world.genruntimeconfig.cache

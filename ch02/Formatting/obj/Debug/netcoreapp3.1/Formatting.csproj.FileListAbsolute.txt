@@ -1,0 +1,14 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache

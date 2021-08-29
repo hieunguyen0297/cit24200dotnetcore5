@@ -1,0 +1,14 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

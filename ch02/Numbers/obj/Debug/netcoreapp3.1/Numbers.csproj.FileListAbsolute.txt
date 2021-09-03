@@ -1,0 +1,14 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch02\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

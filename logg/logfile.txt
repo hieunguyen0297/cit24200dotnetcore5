@@ -1,0 +1,4 @@
+hello, Trace is watching
+Trace error
+Trace warning
+Trace information

@@ -1,0 +1,10 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb

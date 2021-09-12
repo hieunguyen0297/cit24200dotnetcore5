@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3e4fDv7Rfvkjkz/h6pb0E9hOYeiMKyE7Esnh5yQekAbO+aIwgNBkiQTPMLIOmlFgNAyRmbO2vznaTEQbPKDDw==",
+  "success": true,
+  "projectFilePath": "D:\\IUPUI\\FALL_2021\\CIT_24200\\code\\ch05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HIEU NGUYEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HIEU NGUYEN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

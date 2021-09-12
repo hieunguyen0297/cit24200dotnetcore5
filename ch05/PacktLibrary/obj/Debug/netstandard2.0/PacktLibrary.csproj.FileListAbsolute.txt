@@ -1,0 +1,10 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

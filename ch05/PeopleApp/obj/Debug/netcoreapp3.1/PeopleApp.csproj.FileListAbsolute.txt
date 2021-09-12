@@ -1,0 +1,17 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch05\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.genruntimeconfig.cache

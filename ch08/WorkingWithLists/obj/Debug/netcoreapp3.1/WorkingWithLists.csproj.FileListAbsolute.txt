@@ -1,0 +1,14 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.genruntimeconfig.cache

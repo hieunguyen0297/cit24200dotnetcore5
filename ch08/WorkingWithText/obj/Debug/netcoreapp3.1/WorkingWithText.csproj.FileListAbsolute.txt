@@ -1,0 +1,14 @@
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.exe
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.deps.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.dev.json
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csproj.AssemblyReference.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfoInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfo.cs
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\IUPUI\FALL_2021\CIT_24200\code\ch08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.genruntimeconfig.cache

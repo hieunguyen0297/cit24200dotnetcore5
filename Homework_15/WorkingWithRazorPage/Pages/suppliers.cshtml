@@ -1,0 +1,46 @@
+@page
+@model WorkingWithRazorPage.Pages.SuppliersModel
+
+<div class="row">
+
+    <h1>Suppliers</h1>
+    <table class="table">
+        <thead>
+           <tr>
+               <th>Supplier ID</th>
+               <th>Company Name</th>
+               <th>Contact Name</th>
+               <th>Contact Title</th>
+               <th>Address</th>
+               <th>City</th>
+               <th>Region</th>
+               <th>Postal Code</th>
+               <th>Country</th>
+               <th>Phone</th>
+               <th>Fax</th>
+               <th>Home Page</th>
+           </tr> 
+           
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Suppliers)
+            {
+                <tr>
+                    <td>@item.SupplierID</td>
+                    <td>@item.CompanyName</td>
+                    <td>@item.ContactName</td>
+                    <td>@item.ContactTitle</td>
+                    <td>@item.Address</td>
+                    <td>@item.City</td>
+                    <td>@item.Region</td>
+                    <td>@item.PostalCode</td>
+                    <td>@item.Country</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Fax</td>
+                    <td>@item.HomePage</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

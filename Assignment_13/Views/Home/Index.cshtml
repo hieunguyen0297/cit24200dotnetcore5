@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Assignment_12.Models.Product>;
+
+<div class="text-center">
+    <h1 class="display-4">Our exclusive products</h1>
+    @foreach (var item in Model)
+    {
+        <div class="product-div">
+            <div>Product Id: @item.Id</div>
+            <div class="name-box">
+                <h1><a href="/home/productdetail/@item.Id">@item.Name</a></h1>
+                <p>$@item.Price</p>
+            </div>
+            <div>Product Description: @item.Description</div>
+        </div>
+
+    }
+</div>
